@@ -1,4 +1,5 @@
-https://raw.githubusercontent.com/lneez12/lneez12/main/coer2.png
+
+![Banner]([https://github.com/kmhmubin/kmhmubin/blob/master/GitHub-Profile-Cover.jpg](https://raw.githubusercontent.com/lneez12/lneez12/main/coer2.png))
 <h1 align="center">Hi 👋, I'm Nyambat</h1>
 <img align="right" alt="ux/ui" width="400"  src="https://www.viewydigital.com/wp-content/uploads/2019/01/designergif.gif">
 <h3 align="left">A passionate UX/UI DESIGNER</h3>
